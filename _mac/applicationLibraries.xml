@@ -1,0 +1,17 @@
+<application>
+  <component name="libraryTable">
+    <library name="rbenv: jruby-9.1.17.0 facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.1.17.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
