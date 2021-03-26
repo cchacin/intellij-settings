@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src/main/java/org/acme'" />
-    <option name="defaultScopeName" value="Directory '.../src/main/java/org/acme'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/main/java/org/acme'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -10,7 +11,7 @@
     <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
-    <mask>*.java</mask>
     <mask>*.mustache</mask>
+    <mask>*.java</mask>
   </component>
 </application>
