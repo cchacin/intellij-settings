@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="java">
+      <display-name>AbstractCharSequenceAssert.contains (org.assertj.core.api)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("contains").withParameters("java.lang.CharSequence...").definedInClass("org.assertj.core.api.AbstractCharSequenceAssert"))]]></place>
+    </injection>
+  </component>
+</application>
