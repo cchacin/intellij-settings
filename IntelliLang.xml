@@ -5,5 +5,10 @@
       <single-file value="false" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("contains").withParameters("java.lang.CharSequence...").definedInClass("org.assertj.core.api.AbstractCharSequenceAssert"))]]></place>
     </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>Jsonb.fromJson (jakarta.json.bind)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("fromJson").withParameters("java.lang.String", "java.lang.Class").definedInClass("jakarta.json.bind.Jsonb"))]]></place>
+    </injection>
   </component>
 </application>
