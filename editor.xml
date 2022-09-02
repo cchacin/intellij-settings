@@ -2,5 +2,6 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
 </application>
