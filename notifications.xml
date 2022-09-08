@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Black Caiman is disabled" shouldLog="false" />
+  </component>
+</application>
