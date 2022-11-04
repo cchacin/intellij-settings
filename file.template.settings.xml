@@ -1,0 +1,15 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Junit 5 Should TestCase.java" reformat="true" live-template-enabled="true" />
+    </default_templates>
+    <code_templates>
+      <template name="JUnit5 AfterAll Method.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="JUnit5 BeforeAll Method.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="JUnit5 SetUp Method.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="JUnit5 TearDown Method.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="JUnit5 Test Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="JUnit5 Test Method.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>
