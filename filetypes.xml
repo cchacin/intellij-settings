@@ -8,6 +8,18 @@
       <mapping ext="0_tooldirect_co" type="PLAIN_TEXT" />
       <mapping ext="deps" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="qute.html" type="Qute" />
+      <removed_mapping ext="qute.txt" type="Qute" />
+      <removed_mapping ext="qute.json" type="Qute" />
+      <removed_mapping ext="qute.yml" type="Qute" />
+      <removed_mapping ext="qute.yaml" type="Qute" />
+      <removed_mapping ext="qute.htm" type="Qute" />
+      <mapping ext="qute.json" type="Qute_" />
+      <mapping ext="qute.htm" type="Qute_" />
+      <mapping ext="qute.yaml" type="Qute_" />
+      <mapping ext="qute.html" type="Qute_" />
+      <mapping ext="qute.txt" type="Qute_" />
+      <mapping ext="qute.yml" type="Qute_" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
